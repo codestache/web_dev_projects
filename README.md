@@ -12,5 +12,11 @@ Hello and welcome to the Github repo of my Web Development Projects. Each projec
 [View it live from your browser.](https://thestaxdev.github.io/quizzical/) Deployed with github pages
 <br>
 [View project source code.](https://github.com/thestaxdev/quizzical)
+
+> ### :hammer_and_wrench: Languages and Tools used on this project:
+<img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+<img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+<img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
+<img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
 </details>
 
