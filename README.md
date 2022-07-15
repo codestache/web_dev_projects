@@ -18,5 +18,6 @@ Hello and welcome to the Github repo of my Web Development Projects. Each projec
 <img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
 <img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
 <img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
+<img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 </details>
 
