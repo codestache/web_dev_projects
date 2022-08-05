@@ -12,6 +12,8 @@ Hello and welcome to the Github repo of my Web Development Projects. Each projec
 [View it live from your browser.](https://thestaxdev.github.io/quizzical-v2/) Deployed with github pages
 <br>
 [View project source code.](https://github.com/thestaxdev/quizzical-v2)
+<br>
+[Figma wifreframe.](https://www.figma.com/file/NsSV0hmScNay0evCbserKb/Quiz-App-Components-v2?node-id=0%3A1)
 
 > ### :hammer_and_wrench: Languages and Tools used on this project:
 <img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
