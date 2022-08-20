@@ -13,7 +13,7 @@ Hello and welcome to the Github repo of my Web Development Projects. Each projec
 <br>
 [View project source code.](https://github.com/thestaxdev/quizzical-v3)
 <br>
-[Figma wifreframe.](https://www.figma.com/file/G1H8vaeCJlPz6GHRiHOgPU/Quizzical-v3-w%2F-ReactJS?node-id=47%3A205)
+[Figma mockups.](https://www.figma.com/file/G1H8vaeCJlPz6GHRiHOgPU/Quizzical-v3-w%2F-ReactJS?node-id=47%3A205)
 
 > ### :hammer_and_wrench: Languages and Tools used on this project:
 <img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
