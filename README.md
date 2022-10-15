@@ -9,9 +9,9 @@ Hello and welcome to the Github repo of my Web Development Projects. Each projec
 
 > This is a trivia quiz app. It asks quiestions about computer informations and you just have to pick you answers from the options provided. It uses its data from [Open Trivia Database](https://opentdb.com/) - an open source database
 
-[View it live from your browser.](https://thestaxdev.github.io/quizzical-v3/) Deployed with github pages
+[View it live from your browser.](https://codestache.github.io/quizzical-v3) Deployed with github pages
 <br>
-[View project source code.](https://github.com/thestaxdev/quizzical-v3)
+[View project source code.](https://github.com/codestache/quizzical-v3)
 <br>
 [Figma mockups.](https://www.figma.com/file/G1H8vaeCJlPz6GHRiHOgPU/Quizzical-v3-w%2F-ReactJS?node-id=47%3A205)
 
