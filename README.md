@@ -45,3 +45,25 @@ Hello and welcome to the Github repo of my Web Development Projects. Each projec
 ![next](https://camo.githubusercontent.com/bfa42fcd0e2a979d168d3652b0ddab5966786d6ea6816b22841c6d355d81bdd9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465)
 </details>
 
+<details>
+<summary>3. Touring </summary>
+<h3>Overview</h3>
+
+> This is a work in progress personal project (Tour Booking Site).
+
+[View it live from your browser.](https://touring.vercel.app/) Deployed with Vercel
+<br>
+[View project source code.](https://github.com/mrjaysonwong/touring)
+<br>
+[Figma wireframe.](W.I.P)
+
+> ### :hammer_and_wrench: Languages and Tools used on this project:
+![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![mui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+</details>
+
