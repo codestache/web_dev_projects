@@ -55,7 +55,7 @@ Hello and welcome to the Github repo of my Web Development Projects. Each projec
 <br>
 [View project source code.](https://github.com/mrjaysonwong/touring)
 <br>
-[Figma wireframe.](W.I.P)
+[Figma wireframe.] Work in progress.
 
 > ### :hammer_and_wrench: Languages and Tools used on this project:
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
